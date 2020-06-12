@@ -12,6 +12,6 @@ This script uses Operating System Commands (OSC) Command Sequences and either ou
 | -bg \<INT> | Displays a test string with background color INT. Using this argument will disable -c argument if used. |
 
 ## References
-* OSC Command Sequences
-https://invisible-island.net/xterm/ctlseqs/ctlseqs.txt
-**Note:** search for 'OSC Ps ; Pt ST' to get the the relevant section. This script uses Ps code 4.
+| Name | URL | Notes |
+|--|--|--|
+| OSC Command Sequences | https://invisible-island.net/xterm/ctlseqs/ctlseqs.txt | Search for 'OSC Ps ; Pt ST' to get the the relevant section. This script uses Ps code 4. |
